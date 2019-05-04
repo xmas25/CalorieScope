@@ -16,7 +16,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
  *************************************************************************
- * Modified by Karanvir Singh and Sourav Kainth
+ * Modified by Shouko Komi and Sourav Kainth
  */
 
 package org.dynamicsoft.caloriescope.reminder;

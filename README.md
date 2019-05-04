@@ -10,7 +10,7 @@ Note: This snapshot of repository contains Diet Manager module and respective as
 ## Contributors
 
 ### Developers
-* Karanvir
+* Shouko
 * Sourav
 ### Debuggers
 * Gajanan
@@ -24,6 +24,7 @@ Note: This snapshot of repository contains Diet Manager module and respective as
 * Ashar
 * Pavneet
 * Jaspreet
+* Akash Kumar Sharma
 ### Testing
 * Sourav
 * Sumit

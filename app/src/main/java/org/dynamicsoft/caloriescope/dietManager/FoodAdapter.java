@@ -1,7 +1,7 @@
 /*******************************************************************************************************
  * org/dynamicsoft/caloriescope/dietManager/FoodAdapter.java: FoodAdapter java source for CalorieScope
  *******************************************************************************************************
- * Copyright (C) 2018 Karanvir Singh
+ * Copyright (C) 2019 Shouko Komi
  *
  * Modified by Sourav Kainth
  *

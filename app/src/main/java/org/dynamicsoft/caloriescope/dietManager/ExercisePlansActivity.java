@@ -1,7 +1,7 @@
 /****************************************************************************************************************
  * org/dynamicsoft/caloriescope/dietManager/ExercisePlansActivity.java: ExercisePlans activity for CalorieScope
  ****************************************************************************************************************
- * Copyright (C) 2018 Sourav Kainth
+ * Copyright (C) 2019 Sourav Kainth
  *
  * This program is free software; you can redistribute it and/or
  * modify it under the terms of the GNU General Public License
