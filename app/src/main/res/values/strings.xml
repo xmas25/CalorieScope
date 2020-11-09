@@ -41,7 +41,7 @@
     <string name="your_last_heart_rate_check_was">Your last heart rate check was </string>
     <string name="enter_title">Enter title</string>
     <string name="application_logo">Application logo</string>
-    <string name="today_s_summery">Today\'s Summery</string>
+    <string name="today_s_summary">Today\'s Summary</string>
     <string name="heart_rate">Heart Rate</string>
     <string name="check">Check</string>
     <string name="step_counter">Step Counter</string>
